@@ -661,3 +661,23 @@ footer .social a:hover {
   }
 }
 /* medium devices: 767 > */
+@media (min-width: 767px) {
+  :root {
+    --title-font-size: 2.25rem;
+    --subtitle-font-size: 1.125rem;
+  }
+}
+/* small devices: 575 > */
+@media (min-width: 575px) {
+  :root {
+    --title-font-size: 2.25rem;
+    --subtitle-font-size: 1.125rem;
+  }
+}
+/* extra small devices: 320 > */
+@media (min-width: 320px) {
+  :root {
+    --title-font-size: 2.25rem;
+    --subtitle-font-size: 1.125rem;
+  }
+}
