@@ -5,6 +5,14 @@ Projeto frontend em desenvolvimento. O projeto consiste em uma página comercial
 
 ## Ver o projeto: https://fillipeco.github.io/CakeByJoyce/
 
+<h2 id="tecnologias"> 🛠 Tecnologias </h2>
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+* Javascript vanilla
+* HTML
+* CSS
+
 ![Screenshot 2021-10-21 at 17-14-33 CakeByJoyce](https://user-images.githubusercontent.com/87552890/138350385-ffcf1015-1f1f-4a39-8cdb-723c4d9f698b.png)
 
 ## 🤝 Colaboradores
